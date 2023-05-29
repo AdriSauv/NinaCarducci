@@ -68,8 +68,7 @@ body {
 }
 
 .picture img {
-	height: 360px;
-	width: 360px;
+	width: 100%;
 
 }
 #about-me {
@@ -91,6 +90,9 @@ body {
 	font-size: 14px;
 }
 
+#gallery {
+	/*	min-height: 100vh; */
+}
 .title{
 	text-align: center;
 	padding-block: 2em;
